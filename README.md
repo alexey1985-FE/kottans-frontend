@@ -46,7 +46,7 @@
     <summary>
      screenshot
     </summary>
-    <img src="task_git_collaboration/linux_Quiz 1.png">
+    <img src="task_linux_cli/linux_Quiz 1.png">
     <img src="task_linux_cli/linux_Quiz 2.png">
     <img src="task_linux_cli/linux_Quiz 3.png">
     <img src="task_linux_cli/linux_Quiz 4.png">
