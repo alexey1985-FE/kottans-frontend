@@ -74,7 +74,7 @@
     <summary>
      screenshot
     </summary>
-    <img src="task_linux_cli/git_collaboration.png">
+    <img src="task_git_collaboration/git_collaboration.png">
   </details>
   
   _I've already completed all the levels at learngitbranching.js.org during_ [0.Git Basics](#git-basics)
