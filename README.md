@@ -41,7 +41,7 @@
   ***
   ## Linux CLI, and HTTP
   In this module, almost everything was new for me, so it was nice to find familiar commands from the previous module.
-  It was a great experience, and I will definitely use it in my future work.
+  It was a great experience,and I will definitely use it in my future work.
   <details>
     <summary>
      screenshot
