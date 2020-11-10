@@ -46,7 +46,7 @@
     <summary>
      screenshot
     </summary>
-    <img src="task_linux_cli/linux_Quiz 1.png">
+    <img src="task_git_collaboration/linux_Quiz 1.png">
     <img src="task_linux_cli/linux_Quiz 2.png">
     <img src="task_linux_cli/linux_Quiz 3.png">
     <img src="task_linux_cli/linux_Quiz 4.png">
@@ -62,3 +62,19 @@
     
   - types of headers;
   - using HTTP in web frameworks examples.
+  
+  ## Git Collaboration  
+  A very powerful course! As always, I've learned a lot of new things:
+  - how to create pull requests; 
+  - work in a local repository with two remote branches (origin and upstream branches);
+  - how to squash commits interactively. 
+  
+  I am sure, all this knowledge will be useful to me in practice in the future.
+  <details>
+    <summary>
+     screenshot
+    </summary>
+    <img src="task_linux_cli/git_collaboration.png">
+  </details>
+  
+  I've already completed all the levels at learngitbranching.js.org during [0.Git Basics](#git_basics)
