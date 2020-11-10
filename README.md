@@ -77,4 +77,4 @@
     <img src="task_linux_cli/git_collaboration.png">
   </details>
   
-  I've already completed all the levels at learngitbranching.js.org during [0.Git Basics](#git-basics)
+  _I've already completed all the levels at learngitbranching.js.org during_ [0.Git Basics](#git-basics)
