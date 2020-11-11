@@ -50,6 +50,7 @@
     <img src="task_linux_cli/linux_Quiz 2.png">
     <img src="task_linux_cli/linux_Quiz 3.png">
     <img src="task_linux_cli/linux_Quiz 4.png">
+    <img src="task_linux_cli/linux_Conclusion.png">                 
   </details>
   
   After completing reading articles about HTTP protocols I learned about:
