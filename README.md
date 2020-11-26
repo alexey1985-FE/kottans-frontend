@@ -6,7 +6,7 @@
   - [x] [2.VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
  
  ## Front-End Basics
-  - [ ] 3.Intro to HTML & CSS
+  - [x] [3.Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
   - [ ] 4.Responsive Web Design
   - [ ] 5.HTML & CSS Practice
   - [ ] 6.JavaScript Basics
