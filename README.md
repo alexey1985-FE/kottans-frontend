@@ -79,3 +79,15 @@
   </details>
   
   _I've already completed all the levels at learngitbranching.js.org during_ [0.Git Basics](#git-basics)
+
+  ## Intro to HTML and CSS
+  In this module, all information was new for me. I had to strain a little to comprehend and fix it in my head. I was surprised by flex and grid how powerful tools     they are.
+  I think I will use all this knowledge in the future to create beautiful and responsive websites.
+  <details>
+    <summary>
+     screenshot
+    </summary>
+    <img src="task_html_css_intro/Intro to HTML, CSS  - Udscity.png">
+    <img src="task_html_css_intro/Finished Learn HTML.png">
+    <img src="task_html_css_intro/Finished Learn CSS.png">                
+  </details>
