@@ -7,7 +7,7 @@
  
  ## Front-End Basics
   - [x] [3.Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
-  - [ ] 4.Responsive Web Design
+  - [x] [4.Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)
   - [ ] 5.HTML & CSS Practice
   - [ ] 6.JavaScript Basics
   - [ ] 7.Document Object Model - practice
@@ -90,4 +90,21 @@
     <img src="task_html_css_intro/Intro to HTML, CSS  - Udscity.png">
     <img src="task_html_css_intro/Finished Learn HTML.png">
     <img src="task_html_css_intro/Finished Learn CSS.png">                
+  </details>
+  
+  ## Responsive Web Design
+  With this module I expanded my knowledge of the frontend. As always, all the information in this module was new to me.
+  Now I know about:
+ - viewport features, responsive markup features;
+ - media query features, breakpoints;
+ - how to set up a test suite using a combination of physical devices, emulators and simulators;
+ - the most popular responsive layout templates and explore the tools needed to implement them in my own projects.
+
+  Thanks to Flexbox Froggy, I've had amazing practice with flexbox.
+  <details>
+    <summary>
+     screenshot
+    </summary>
+    <img src="task_responsive_web_design/Udacity - responsive web design.png">
+    <img src="task_responsive_web_design/Flexbox Froggy.png">
   </details>
