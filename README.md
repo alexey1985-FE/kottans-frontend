@@ -8,7 +8,7 @@
  ## Front-End Basics
   - [x] [3.Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
   - [x] [4.Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)
-  - [ ] 5.HTML & CSS Practice
+  - [x] [5.HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
   - [ ] 6.JavaScript Basics
   - [ ] 7.Document Object Model - practice
   
@@ -109,7 +109,7 @@
     <img src="task_responsive_web_design/Flexbox Froggy.png">
   </details>
   
-   ## HTML and CSS practice
+   ## HTML and CSS Practice
    This task was new and difficult enough for me. I had to spend a lot of time to figure it out and I did it:). I learned how to make a popup menu without    JavaScript, only on HTML and СSS. It was a great opportunity for me to apply the knowledge I gained about HTML and СSS.
    The link to the result of my work is below.
    
