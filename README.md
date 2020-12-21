@@ -108,3 +108,11 @@
     <img src="task_responsive_web_design/Udacity - responsive web design.png">
     <img src="task_responsive_web_design/Flexbox Froggy.png">
   </details>
+  
+   ## HTML and CSS practice
+   This task was new and difficult enough for me. I had to spend a lot of time to figure it out and I did it:). I learned how to make a popup menu without    JavaScript, only on HTML and СSS. It was a great opportunity for me to apply the knowledge I gained about HTML and СSS.
+   The link to the result of my work is below.
+   
+   [Demo](https://alexey1985-fe.github.io/HTML-CSS-Popup/.)
+   
+   
